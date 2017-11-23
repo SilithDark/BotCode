@@ -1,0 +1,16 @@
+{
+  "name": "discord-writing-bot",
+  "version": "1.0.0",
+  "description": "For Writing Sprints",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Lamp",
+  "license": "MIT",
+  "dependencies": {
+    "collections": "^5.0.6",
+    "discord.js": "^11.0.0",
+    "validator": "^7.0.0"
+  }
+}
